@@ -1,6 +1,9 @@
-# Olá, eu sou o Thiago! 👋
+# Thiago Eduardo
 
-Sou um desenvolvedor focado na criação de soluções robustas e automatizadas. Atualmente, dedico meu tempo ao aperfeiçoamento de arquiteturas de sistemas com **Java** e **Spring Boot**, além de desenvolver ferramentas de automação e coleta de dados utilizando **Python**.
+Graduando em Tecnologia da Informação TI pela UFRN. Técnico em Informática pelo IFRN Campus João Camara.
+Estudando Java(Spring), Python.
+
+Back-end | Java | SpringBoot | PostgreSQL | MySQL | Git | GitHub
 
 ## 🚀 Sobre Mim
 - 💻 Atuo no desenvolvimento **Back-end** (Java/Spring) e **Front-end** (HTML, CSS, JS).
