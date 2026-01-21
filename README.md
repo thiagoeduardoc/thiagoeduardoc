@@ -27,15 +27,6 @@ Sou um desenvolvedor focado na criação de soluções robustas e automatizadas.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoeduardoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoeduardoc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-eb-castro/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagoeduardoc)
